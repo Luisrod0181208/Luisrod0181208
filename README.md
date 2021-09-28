@@ -6,7 +6,7 @@ python, java, javascript & am cybersecurity literate.
  #quickFacts
 - double major in computer science & psychology
 - your typical opportunity-seeking computer science studennt
-- mech enthusiast, ☕️ lover, & bookworm 📚
+- mech-keyboard enthusiast, ☕️ lover, & bookworm 📚
 - my favorite book is 1984 and my favorite switches are holy bobas :)
 
 connect with me!
